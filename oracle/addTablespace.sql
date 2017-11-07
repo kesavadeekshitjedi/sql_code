@@ -1,0 +1,2 @@
+alter tablespace idashdata ADD DATAFILE '/opt/12c/app/oracle/oradata/IDASH1/idashindex2.dbf' SIZE 5000M AUTOEXTEND ON;
+--alter database DATAFILE '/opt/12c/app/oracle/oradata/IDASH1/idashindex.dbf' resize 5000M
